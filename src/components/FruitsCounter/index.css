@@ -1,0 +1,53 @@
+.bg-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #ffd569;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  height: 90vh;
+  width: 90vw;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: black;
+  font-size: 30px;
+}
+.countText {
+  color: #ffd569;
+  font-size: 30px;
+}
+
+.mangoImg {
+  height: 200px;
+  width: 150px;
+}
+.mangoButton {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+  width: 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.mangoContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-;
+}
+
+.items-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  justify-content: space-around;
+}
